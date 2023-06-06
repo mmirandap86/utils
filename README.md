@@ -1,5 +1,5 @@
-# utils
-Navaja suiza para el dia a dia
+# Utils
+Scripts basados generalmente en Python, permiten automatizar tareas y enviar el resultado via Telegram
 
 # Folders
 Para crear directorios dentro de un storage EFS pasando como argumento el nombre del directorio
